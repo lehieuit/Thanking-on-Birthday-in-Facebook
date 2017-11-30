@@ -7,4 +7,5 @@ We can also comment 'thank you' for every post which contains customised phrases
 Requirements:
 
  Generate access token at https://developers.facebook.com/tools/explorer
+ 
  set "like" as true to like posts on your wall
